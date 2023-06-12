@@ -18,7 +18,7 @@
 		9B7F0AE42A2DC240000A63F8 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7F0AE32A2DC240000A63F8 /* Home.swift */; };
 		9B7F0AE62A2DC5DB000A63F8 /* AnchorKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7F0AE52A2DC5DB000A63F8 /* AnchorKey.swift */; };
 		9B7F0B292A2DE66D000A63F8 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7F0B282A2DE66D000A63F8 /* Colors.swift */; };
-		9BB7CC7A2A36C23A00438228 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 9BB7CC792A36C23A00438228 /* Readme.md */; };
+		9BB7CC7A2A36C23A00438228 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9BB7CC792A36C23A00438228 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,7 +53,7 @@
 		9B7F0AE32A2DC240000A63F8 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		9B7F0AE52A2DC5DB000A63F8 /* AnchorKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnchorKey.swift; sourceTree = "<group>"; };
 		9B7F0B282A2DE66D000A63F8 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
-		9BB7CC792A36C23A00438228 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
+		9BB7CC792A36C23A00438228 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +84,7 @@
 		9B7F0AAA2A2DBEBA000A63F8 = {
 			isa = PBXGroup;
 			children = (
-				9BB7CC792A36C23A00438228 /* Readme.md */,
+				9BB7CC792A36C23A00438228 /* README.md */,
 				9B7F0AB52A2DBEBA000A63F8 /* Telegram Dynamic Island */,
 				9B7F0AC62A2DBEBB000A63F8 /* Telegram Dynamic IslandTests */,
 				9B7F0AD02A2DBEBB000A63F8 /* Telegram Dynamic IslandUITests */,
@@ -256,7 +256,7 @@
 			files = (
 				9B7F0ABE2A2DBEBB000A63F8 /* Preview Assets.xcassets in Resources */,
 				9B7F0ABB2A2DBEBB000A63F8 /* Assets.xcassets in Resources */,
-				9BB7CC7A2A36C23A00438228 /* Readme.md in Resources */,
+				9BB7CC7A2A36C23A00438228 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
